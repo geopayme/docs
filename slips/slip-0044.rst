@@ -77,7 +77,7 @@ index hexa       coin
 64    0x80000040 `Open Chain <https://github.com/openchain/>`_
 69    0x80000045 `OKCash <https://github.com/okcashpro/>`_
 77    0x8000004d `DogecoinDark <https://github.com/doged/>`_
-113   0x80000071 STEP
+113   0x80000071 STEPS
 ===== ========== ================================
 
 Coin types will be added only if there is a wallet implementing BIP-0044 for desired coin.
